@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Source files (only dist is published)
+__tests__/
+*.test.ts
+*.test.tsx
+
+# Config files
+vite.config.ts
+tsconfig.json
+.eslintrc*
+.prettierrc*
+
+# Development
+*.log
+.DS_Store

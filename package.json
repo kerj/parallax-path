@@ -1,6 +1,6 @@
 {
   "name": "@kerj/react-parallax-path",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Scroll-driven parallax animations with SVG path following for React",
   "author": "kerj",
   "license": "MIT",

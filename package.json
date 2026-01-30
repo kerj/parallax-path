@@ -38,12 +38,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kerj/react-parallax-path"
+    "url": "https://github.com/kerj/parallax-path"
   },
   "bugs": {
-    "url": "https://github.com/kerj/react-parallax-path/issues"
+    "url": "https://github.com/kerj/parallax-path/issues"
   },
-  "homepage": "https://github.com/kerj/react-parallax-path#readme",
+  "homepage": "https://github.com/kerj/parallax-path#readme",
   "peerDependencies": {
     "react": ">=17.0.0",
     "react-dom": ">=17.0.0"
